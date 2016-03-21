@@ -1,0 +1,5 @@
+ Main is declared inside a class or struct. Main must be static and it should not be public. (In the earlier example, it receives the default access of private.) The enclosing class or struct is not required to be static.
+ 
+ Keywords are predefined, reserved identifiers that have special meanings to the compiler. They cannot be used as identifiers in your program unless they include @ as a prefix. For example, @if is a valid identifier but if is not because if is a keyword.
+ 
+ 
